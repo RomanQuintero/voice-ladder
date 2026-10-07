@@ -1,0 +1,24 @@
+# Entornos virtuales (uno por modelo, ~3 GB cada uno)
+.venv/
+.venv-*/
+
+# Pesos descargados (ECAPA); el resto vive en la caché de Hugging Face
+modelos/
+
+# Audio: se regenera con los scripts
+datos/mls_raw/
+datos/referencias/**/*.wav
+datos/prueba/**/*.wav
+salidas/**/*.wav
+
+# Guion de grabación descartado (al final se usó MLS)
+grabacion/
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store

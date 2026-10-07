@@ -1,0 +1,12 @@
+speechbrain==1.1.1
+transformers
+accelerate
+jiwer
+speechmos==0.0.1.1
+onnxruntime
+librosa
+matplotlib
+soundfile
+numpy
+torch==2.8.0
+torchaudio==2.8.0

@@ -1,0 +1,6 @@
+f5-tts==1.1.22
+huggingface_hub
+soundfile
+numpy
+torch==2.8.0
+torchaudio==2.8.0

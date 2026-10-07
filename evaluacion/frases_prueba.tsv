@@ -1,0 +1,31 @@
+id	categoria	texto
+F01	corta	Buenos días.
+F02	corta	Ya voy, dame un minuto.
+F03	corta	No lo sé, la verdad.
+F04	corta	Perfecto, lo dejamos así.
+F05	corta	¿Dónde están mis gafas?
+F06	media	Mañana tengo que ir al médico a primera hora.
+F07	media	El paquete llegó ayer, pero la caja estaba rota.
+F08	media	Me gusta caminar por la playa cuando no hay nadie.
+F09	media	Esta semana he dormido fatal por culpa del calor.
+F10	media	Si terminamos pronto, podemos ir a cenar fuera.
+F11	larga	Cuando era pequeño pasaba los veranos en casa de mis tíos, rodeado de huertas, bicicletas viejas y tardes que parecían no acabar nunca.
+F12	larga	El problema no era el código en sí, sino que nadie había documentado por qué se tomaron aquellas decisiones hace tres años.
+F13	larga	Aunque el pronóstico anunciaba lluvia, decidimos subir al mirador y al final el cielo se despejó justo a tiempo para ver el atardecer.
+F14	larga	Lo más difícil de mudarse no es cargar las cajas, es decidir qué cosas merece la pena guardar y cuáles hay que dejar atrás.
+F15	larga	Después de varias pruebas, la versión optimizada consumía la mitad de memoria y respondía casi el doble de rápido que la original.
+F16	pregunta	¿Te apetece un café o prefieres algo frío?
+F17	pregunta	¿Cuánto tiempo llevas esperando aquí fuera?
+F18	pregunta	¿Por qué nadie me avisó de que la reunión se había cancelado?
+F19	exclamacion	¡Qué alegría verte después de tanto tiempo!
+F20	exclamacion	¡Cuidado, que el suelo está mojado!
+F21	numeros	El vuelo despega a las seis y diez y aterriza a las nueve menos cuarto.
+F22	numeros	Hemos vendido mil doscientas cuarenta unidades en el primer trimestre.
+F23	numeros	La temperatura bajará hasta los dos grados bajo cero esta noche.
+F24	nombres	Beatriz y Guillermo viven en Valladolid desde hace ocho años.
+F25	nombres	El concierto de Rosalía en Sevilla agotó las entradas en una hora.
+F26	tecnica	La tarjeta gráfica tiene veinticuatro gigas de memoria de vídeo.
+F27	tecnica	El servidor devolvió un error porque el certificado había caducado.
+F28	fonetica	El ferrocarril recorre el barranco entre rocas rojizas y arroyos.
+F29	fonetica	Hoy hace un frío húmedo que se mete en los huesos.
+F30	fonetica	Ñandú, cigüeña y pingüino: tres aves con nombres curiosos.

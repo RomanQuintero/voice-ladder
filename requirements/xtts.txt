@@ -1,0 +1,9 @@
+coqui-tts==0.27.5
+# transformers 5 quitó isin_mps_friendly, que coqui-tts importa.
+transformers==4.57.6
+# Para trocear frases de más de 239 caracteres (hay 10 en la prueba).
+spacy
+soundfile
+numpy
+torch==2.8.0
+torchaudio==2.8.0
